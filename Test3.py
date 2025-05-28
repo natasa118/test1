@@ -1,5 +1,5 @@
 import os
-
+#nova verzija
 print(os.getcwd())
 
 os.chdir("/home/natasa/Desktop/python")
